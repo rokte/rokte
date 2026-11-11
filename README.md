@@ -28,8 +28,10 @@ Olá, eu sou o André, tenho 16 anos e sou de São Paulo. Atualmente cursando t�
 
 
 <br><br><br>
-
+<div style="margin-top: 30px;">
 <h3 style="margin-top: 60px;" align="center">Estatísticas<h3/>
+<div/>
+
 <div>
  <img height="180px" align="left" src="https://github-stats-extended.vercel.app/api?username=rokte&rank_icon=github&custom_title=Meus%20Status&show_icons=true&include_all_commits=true&theme=midnight-purple"/>
  

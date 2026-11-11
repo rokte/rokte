@@ -29,7 +29,7 @@ Olá, eu sou o André, tenho 16 anos e sou de São Paulo. Atualmente cursando t�
 
 <br><br><br>
 <div style="margin-top: 30px;">
-<h3 style="margin-top: 60px;" align="center">Estatísticas<h3/>
+<h3 style="margin-top: 60px;" align="left">Estatísticas<h3/>
 <div/>
 
 <div>

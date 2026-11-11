@@ -10,6 +10,7 @@ Olá, eu sou o André, tenho 16 anos e sou de São Paulo. Atualmente cursando t�
 <br><br>
 
 <h3 align ="left">Linguagens e Ferramentas<h3/>
+<br><br>
 
 <img title="python" height="40px" align="left" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
@@ -27,7 +28,7 @@ Olá, eu sou o André, tenho 16 anos e sou de São Paulo. Atualmente cursando t�
 
 <br><br><br>
 
-<h3>Estatísticas<h3/>
+<h3 style="margin-top: 60px;" align="center">Estatísticas<h3/>
 <div>
  <img height="180px" align="left" src="https://github-stats-extended.vercel.app/api?username=rokte&rank_icon=github&custom_title=Meus%20Status&show_icons=true&include_all_commits=true&theme=midnight-purple"/>
  

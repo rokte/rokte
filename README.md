@@ -6,7 +6,7 @@
 
 Olá, eu sou o André, tenho 16 anos e sou de São Paulo. Atualmente cursando técnico de desenvolvimento de sistemas na ETEC, e estou sempre buscando melhorar meu conhecimento.
 
-<br>
+
 
 <img align="right" height="200px"  alt="" src="./scr/katana-zero-akiisoft.gif"/>
 <br><br>

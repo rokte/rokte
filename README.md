@@ -6,11 +6,12 @@
 
 Olá, eu sou o André, tenho 16 anos e sou de São Paulo. Atualmente cursando técnico de desenvolvimento de sistemas na ETEC, e estou sempre buscando melhorar meu conhecimento.
 
-<img align="right" height="200px" alt="" src="./scr/katana-zero-akiisoft.gif"/>
+<br>
+
+<img align="right" height="200px"  alt="" src="./scr/katana-zero-akiisoft.gif"/>
 <br><br>
 
-<h3 align ="left">Linguagens e Ferramentas<h3/>
-<br><br>
+<h3 align ="left">Linguagens e Ferramentas<h3>
 
 <img title="python" height="40px" align="left" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 

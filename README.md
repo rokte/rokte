@@ -1,4 +1,4 @@
-  <img src="https://readme-typing-svg.demolab.com/?lines=Bem-Vindo+ao+Meu+Perfil!;Explore+a+Vontade&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=6421B5" alt="Titulo">
+  <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Bem-Vindo+ao+Meu+Perfil!;Explore+a+Vontade&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=6421B5" alt="Titulo">
 
 
 __Linguagens e Estatísticas__
